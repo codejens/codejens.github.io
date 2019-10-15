@@ -3,7 +3,35 @@
 
     <url>
         <loc>http://codejens.github.io.com/tags/Hexo/</loc>
-        <lastmod>2019-07-18T09:43:09.752Z</lastmod>
+        <lastmod>2019-10-09T10:17:04.807Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://codejens.github.io.com/tags/cocos2d-x-3-x/</loc>
+        <lastmod>2019-10-11T10:00:44.724Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://codejens.github.io.com/tags/%E9%9A%8F%E8%AE%B0/</loc>
+        <lastmod>2019-10-11T10:01:24.975Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://codejens.github.io.com/tags/Lua/</loc>
+        <lastmod>2019-10-11T10:25:55.655Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://codejens.github.io.com/tags/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</loc>
+        <lastmod>2019-10-12T03:58:07.773Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
